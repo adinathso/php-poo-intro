@@ -39,3 +39,4 @@ CREATE TABLE `personnages` (
     `experience` INT NULL ,
 PRIMARY KEY (`id`)) ENGINE = InnoDB;
 ```
+salut
